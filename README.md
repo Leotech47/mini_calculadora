@@ -117,5 +117,3 @@ Encerrando a calculadora. Até mais!
 ---
 
 Feito para quem deseja uma **calculadora simples, interativa e extensível** em Python.
-
-```
