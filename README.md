@@ -1,5 +1,3 @@
-
-````markdown
 # Mini-Calculadora Interativa em Python
 
 Este projeto é uma **mini-calculadora interativa** desenvolvida em Python. O programa permite ao usuário realizar várias operações matemáticas básicas e avançadas, incluindo soma, subtração, multiplicação, divisão, potência, módulo e raiz quadrada. A calculadora funciona em loop, permitindo múltiplas operações até que o usuário escolha encerrar o programa.
