@@ -1,4 +1,3 @@
-Claro! Aqui está um **README detalhado em Markdown** para o seu código da mini-calculadora:
 
 ````markdown
 # Mini-Calculadora Interativa em Python
