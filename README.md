@@ -28,7 +28,6 @@ A calculadora suporta as seguintes operações:
 
    ```python
    import math
-````
 
 2. **Loop principal:**
    O programa roda dentro de um `while True`, permitindo operações contínuas até que o usuário escolha sair digitando `"sair"`.
